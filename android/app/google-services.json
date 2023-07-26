@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632441274980",
+    "project_id": "venue1-88a17",
+    "storage_bucket": "venue1-88a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632441274980:android:8a7f0e039f00359cf2d571",
+        "android_client_info": {
+          "package_name": "com.ralfiz.venue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632441274980-c6b173evlab5205cjbl6sprh7lljj3nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrt00VzJAiAHqVfhImnMrDEDYOZuQNnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632441274980-c6b173evlab5205cjbl6sprh7lljj3nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
